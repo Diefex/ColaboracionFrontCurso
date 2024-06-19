@@ -1,4 +1,5 @@
 ## Colaboracion Curso de Frontend
-- Diego Velez
-- Jhon Valencia
+- Alejandra Aguilera
 - Cristian Parada
+- Diego Velez
+- John Ferney Valencia Arias
