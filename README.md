@@ -1,4 +1,4 @@
 ## Colaboracion Curso de Frontend
-- Diego Velez
+- Diego Alejandro Velez Garcia
 - Jhon Valencia
 - Cristian Parada
